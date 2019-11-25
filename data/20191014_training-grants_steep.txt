@@ -1,0 +1,44 @@
+GRANT_TITLE	PROFESSOR	DEPARTMENT	EMAIL	OPEN_POSITIONS	POSTDOC_PREVIEW	RESEARCH_SIMILAR	YEAR
+University of Michigan Anesthesiology Postdoctoral Research Training Program 	Clauw, Daniel	Anesthesiology	dclauw@med.umich.edu 	2	0	1	2019
+University of Michigan Training Program in Genomic Science 	Boehnke, Michael	Biostatistics	boehnke@umich.edu 	1	0	2	2019
+Cancer Biology Training Program 	Lawlor, Elizabeth	Cancer Center 	elawlor@umich.edu 	3	1	2	2019
+Training Program in Organogenesis 	Wellik, Deneen	Center for Organogenesis 	dwellik@med.umich.edu 	2	0	1	2019
+Training Grant in Cell and Molecular Dermatology 	Wong, Sunny	Dermatology	sunnyw@umich.edu	3	1	1	2019
+Environmental Toxicology and Epidemiology Pre/Post Doctoral Research Training 	Loch‐Caruso, Rita	Environmental Health Sciences	rlc@umich.edu 	3	0	1	2019
+University of Michigan Surgical Oncology Research Training Program 	Zou, Weiping	GSA‐Surgical Oncology	wzou@med.umich.edu 	3	0	1	2019
+Umiversity of Michigan Training Program in ELSI Research 	Roberts, Scott	Health Behavior, Health Education	jscottr@umich.edu 	1	1	1	2019
+Health Services Research Training 	Hirth, Richard	Health Management and Policy 	rhirth@umich.edu 	2	0	1	2019
+Career Training in Biology of Aging 	Pletcher, Scott	Institute of Gerontology 	spletch@med.umich.edu 	3	0	1	2019
+Mulitdisciplinary Cardiovascular Research Training 	Pinsky, David	Int Med ‐ Cardiology	dpinsky@med.umich.edu 	8	1	2	2019
+Training Program in Gastrointestinal Epidemiology 	Lok, Anna	Int Med ‐ Gastroenterology	aslok@umich.edu 	2	0	3	2019
+Training in Basic and Translational Digestive Sciences 	Owyang, Chung	Int Med ‐ Gastroenterology 	cowyang@med.umich.edu 	1	0	3	2019
+Training Program in Gastrointestinal Epidemiology 	Schoenfeld, Philip	Int Med ‐ Gastroenterology 	pschoenf@med.umich.edu 	2	0	3	2019
+Oncology Research Training Grant 	Reddy, Pavan	Int Med ‐ Hematology/Oncology 	reddypr@med.umich.edu 	5	0	3	2019
+Training Program in Endocrinology and Metabolism 	Auchus, Richard	Int Med ‐ MEND	rauchus@med.umich.edu 	4	0	2	2019
+Multidisciplinary Training Program in Basic Diabetes Research 	MacDougald, Ormond	Int Med ‐ MEND	macdouga@med.umich.edu 	4	1	2	2019
+Kidney Research Training Program 	Pennauthur, Subramaniam	Int Med ‐ Nephrology 	spennath@umich.edu 	6	0	2	2019
+Multidisciplinary Training Program in Lung Disease 	Standiford, Theodore	Int Med ‐ Pulm./Critical Care 	tstandif@med.umich.edu 	12	0	2	2019
+Training in the Demography and Economics of Aging 	Bound, John	ISR‐Population Studies Center	jbound@umich.edu 	4	0	1	2019
+Social Science Training Program in Population Studies 	Morenoff, Jeffrey	ISR‐Population Studies Center	morenoff@umich.edu 	1	0	1	2019
+Advanced Research Training in Otolaryngology 	Corfas, Gabriel	Kresge Hearing Research Institute 	corfas@med.umich.edu 	3	1	1	2019
+Sensory Mechanisms and Disorders 	Shore, Susan	Kresge Hearing Research Institute 	sushore@med.umich.edu 	3	0	1	2019
+Molecular Mechanisms of Microbial Pathogenesis Training Program 	Carruthers, Vernon	Microbiology and Immunology	vcarruth@umich.edu 	2	1	3	2019
+Training in Clinical and Basic Neuroscience 	Feldman, Eva	Neurology	efeldman@med.umich.edu 	5	0	2	2019
+Vision Research Training Program 	Fort, Patrice	Ophthalmology and Visual Sciences 	patricef@med.umich.edu	1	1	1	2019
+Research Training in Experimental Immunology 	Carty, Shannon	Pathology	scarty@med.umich.edu	2	1	3	2019
+Lung Immunopathology Training 	Lukacs, Nicholas	Pathology	nlukacs@umich.edu 	6	0	2	2019
+Training in Developmental Science to Improve Child Health and Well‐Being 	Lumeng, Julie	Pediatrics ‐ Child Behavioral Health	jlumeng@med.umich.edu 	4	0	1	2019
+Developmental Origins of Metabolic Disorders 	Vazquez, Delia	Pediatrics ‐ Endocrinology	dmvazq@umich.edu 	4	0	2	2019
+Training Grant in Molecular and Translational Hematology 	Shavit, Jordan	Pediatrics ‐ Hem/Onc	jshavit@med.umich.edu 	6	1	2	2019
+Training for Pediatric Health Services Research to Improve Population Health 	Prosser, Lisa	Peds ‐ Ambulatory Care	lisapros@med.umich.edu 	2	0	2	2019
+Postdoctoral Training in the Biology of Drug Abuse 	Traynor, John	Pharmacology	jtraynor@med.umich.edu 	6	1	2	2019
+Surgical Scientist Training Grant in Health Services and Translational Research 	Buchman, Steven	Plastic Surgery	sbuchman@med.umich.edu 	2	0	1	2019
+Multidisciplinary Alcoholism Research Training Program 	Blow, Frederick	Psychiatry‐Substance Abuse	fredblow@umich.edu 	4	0	1	2019
+Developmental Psychology Training Grant 	McLoyd, Vonnie	Psychology	vcmcloyd@umich.edu 	2	0	2	2019
+Tissue Engineering and Regeneration 	Kohn, David	School of Dentistry 	dhkohn@umich.edu 	2	0	1	2019
+Complexity: Innovattions in Promoting Health and Safety 	Titler, Marita	School of Nursing	mtitler@med.umich.edu 	1	0	1	2019
+Obesity Surgery Scientist Training Program 	Dimick, Justin	Surgery ‐ Minimally Invasive 	jdimick@med.umich.edu 	2	0	2	2019
+Advanced Training in Urologic Oncology 	Palapattu, Ganesh	Urology	gpalapat@med.umich.edu 	3	0	3	2019
+Uro Translational Research and Clinical Research Training (UroTRACT) 	Wei, John	Urology	jtwei@med.umich.edu 	2	0	3	2019
+Vascular Surgery: Research Training in Vascular Biology 	Wakefield, Thomas	Vascular Surgery	thomasww@med.umich.edu 	2	0	1	2019
+Michigan Postdoctoral Pioneer Program	Shah, Yatrik 	UMMS	shahy@umich.edu	3	1	3	2019
