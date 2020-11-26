@@ -18,6 +18,17 @@
 # Interactively enter docker image and mount data
 docker run -it -v /Users/Alec/Documents/umich_salary:/Users/Alec/Documents/umich_salary --rm --name pdftotext steepale/pdftotext:1.0
 
+docker run -it \
+-v /Users/Alec/Documents/Bioinformatics/MDV_Project/dissertation/pdf_test:/Users/Alec/Documents/Bioinformatics/MDV_Project/dissertation/pdf_test \
+--rm --name pdftotext steepale/pdftotext:1.0
+
+./configure && \
+make all
+make opt
+make install
+make clean
+
+
 # Working dir
 cd /Users/Alec/Documents/umich_salary
 

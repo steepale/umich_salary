@@ -218,7 +218,8 @@ hist_pd <- ggplot(data=fypd_2018, aes(fypd_2018$NRSA_2019_INCOME)) +
                        fill=I(maze),
                        col=I(blue)) +
         ggtitle("Histogram of First-Year Postdocs at UM (Adjusted for 2019 +3%)") + 
-        xlab("Annual Income (USD)")
+        xlab("Annual Income (USD)") +
+        xlim(40000,70000)
 # Density Histogram
 dens_pd <- ggplot(data=fypd_2018, aes(fypd_2018$NRSA_2019_INCOME)) +
         geom_histogram(aes(y=..density..),
@@ -227,7 +228,8 @@ dens_pd <- ggplot(data=fypd_2018, aes(fypd_2018$NRSA_2019_INCOME)) +
                        col=I(blue)) +
         geom_density(col=2) +
         ggtitle("Histogram of First-Year Postdocs at UM (Adjusted for 2019 +3%)") + 
-        xlab("Annual Income (USD)")
+        xlab("Annual Income (USD)") +
+        xlim(40000,70000)
 # Arrange 2 plots side-by-side
 ggarrange(hist_pd, dens_pd, 
           labels = c("A", "B"),
